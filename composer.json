@@ -1,0 +1,21 @@
+{
+    "name": "miclee123/yii2-tarantool",
+    "description": "Yii2 Tarantool ActiveRecord",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Petrov",
+            "email": "miclee123@mail.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "miclee123\\yii2tarantool\\": "src"
+        }
+    }
+}
