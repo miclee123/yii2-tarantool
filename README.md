@@ -2,6 +2,8 @@ Yii2 Tarantool ActiveRecord
 ===========================
 Yii2 Tarantool ActiveRecord
 
+Project in development
+
 Installation
 ------------
 
