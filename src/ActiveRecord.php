@@ -3,7 +3,6 @@
 
 namespace miclee123\yii2tarantool;
 
-
 use miclee\yii2tarantool\ActiveQuery;
 use yii\base\InvalidConfigException;
 use yii\db\BaseActiveRecord;

@@ -1,11 +1,7 @@
 <?php
-/**
- * @link http://www.yiiframework.com/
- * @copyright Copyright (c) 2008 Yii Software LLC
- * @license http://www.yiiframework.com/license/
- */
 
 namespace miclee\yii2tarantool;
+
 
 use yii\base\Component;
 use yii\base\InvalidParamException;
@@ -14,6 +10,12 @@ use yii\db\ActiveQueryInterface;
 use yii\db\ActiveQueryTrait;
 use yii\db\ActiveRelationTrait;
 use yii\db\QueryTrait;
+
+/**
+ * @link http://www.yiiframework.com/
+ * @copyright Copyright (c) 2008 Yii Software LLC
+ * @license http://www.yiiframework.com/license/
+ */
 
 /**
  * ActiveQuery represents a query associated with an Active Record class.
